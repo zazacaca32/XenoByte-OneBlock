@@ -1,0 +1,39 @@
+{
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 0,
+            "Faction": 2
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "DialogData": [
+    ],
+    "ItemGiverChained": [
+    ],
+    "SkinOverlayData": [
+    ],
+    "isGUIOpen": 0b,
+    "MailData": [
+    ],
+    "PlayerName": "Player718",
+    "UUID": "8ce64f24-c135-3001-9ff7-8b03d3719e4f",
+    "TrackedQuestID": -1
+}
